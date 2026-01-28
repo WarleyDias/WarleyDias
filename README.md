@@ -2,6 +2,8 @@
 Eu sou o Warley Dias 👋
 
 Desenvolvedor Backend especializado em arquiteturas escaláveis com JavaScript, Node.js e React. 
+Trabalho atualmente na parte de integrações de ERP/Saas, aplicações internas e desenvolvimento fullstack no Beleza Natural,
+uma empresa pioneira e especializada em cabelos cacheados que possuem vários salões, lojas e franquias por todo o Brasil, totalizando 36 lojas.
 
 ### Tecnologias de Destaque
 - **Frontend:** React, Next.js, CSS Modules, HTML5 .
