@@ -6,7 +6,6 @@ Trabalho atualmente na parte de integrações de ERP/Saas, aplicações internas
 uma empresa pioneira e especializada em cabelos cacheados que possuem vários salões, lojas e franquias por todo o Brasil, totalizando 36 lojas.
 
 ### Tecnologias de Destaque
-- **Frontend:** React, Next.js, CSS Modules, HTML5 .
-- **Backend:** TypeScript, Node.js, Nest.js SQL, Express, Arquitetura MVC, REST APIs.
-- **Diferenciais:** Integração de sistemas ERP, Automação de processos e Infraestrutura Cloud.
-- **Data Viz:** Recharts para gráficos de alta frequência.
+- **Frontend:** React, Next.js, CSS Modules, HTML5.
+- **Backend:** TypeScript, Node.js, Nest.js SQL, Express, WebServices, REST APIs.
+- **Diferenciais:** Integração de sistemas ERP e Saas, Desenvolvimento FullStack, Automação, Infraestrutura Cloud
