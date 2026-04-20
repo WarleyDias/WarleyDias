@@ -4,7 +4,7 @@ Eu sou o Warley Dias 👋
 Desenvolvedor Fullstack no desenvolvimento, sustentação, evolução de sistemas internos e legados, arquitetura de integrações entre sistemas ERP e plataformas SaaS na rede Beleza Natural. Responsável pela sustentação e evolução do ecossistema digital que atende 36 unidades em todo o Brasil, priorizando a escalabilidade de APIs e a integridade de processos críticos de negócio.
 
 ### Tecnologias de Destaque
-- **Frontend:** React, Angular, Next.js, CSS Tailwind, Vuejs.
+- **Frontend:** React, Angular, Next.js, CSS Tailwind.
 - **Backend:** C#, .NET, Node.js, Nest.js SQL, Express, WebServices, REST APIs.
 - **Diferenciais:** Integração de sistemas ERP e Saas, Desenvolvimento FullStack, Automação, Infraestrutura Cloud
 -----------------------------------------------------------
