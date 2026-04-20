@@ -1,40 +1,54 @@
-# Opa, tudo bem?
-Eu sou o Warley Dias 👋
+# Warley Marcelo Campelo Dias
+**Software Engineer | Backend-focused**
 
-Desenvolvedor Fullstack no desenvolvimento, sustentação, evolução de sistemas internos e legados, arquitetura de integrações entre sistemas ERP e plataformas SaaS na rede Beleza Natural. Responsável pela sustentação e evolução do ecossistema digital que atende 36 unidades em todo o Brasil, priorizando a escalabilidade de APIs e a integridade de processos críticos de negócio.
+Engenheiro de Software focado em backend e sistemas distribuídos, com experiência na modernização de arquiteturas legadas e construção de APIs em .NET e Node.js para ambientes de alta carga e missão crítica.
 
-### Tecnologias de Destaque
-- **Frontend:** React, Angular, Next.js, CSS Tailwind.
-- **Backend:** C#, .NET, Node.js, Nest.js SQL, Express, WebServices, REST APIs.
-- **Diferenciais:** Integração de sistemas ERP e Saas, Desenvolvimento FullStack, Automação, Infraestrutura Cloud
------------------------------------------------------------
-Projetos em Destaque:
+---
 
-Beleza Natural: 
+### Engenharia e Práticas
 
-Refatorei e migrei o sistema legado (PistolagemBelezanatural) para uma arquitetura moderna baseada em React e APIs RESTful em C# resultando na redução do tempo de carregamento das páginas e melhoria da experiência do usuário em aproximadamente 60%.
+- **Arquitetura:** Clean Architecture aplicada em APIs .NET/Node.js com separação de responsabilidades.
+- **Integração:** Comunicação entre serviços via HTTP e padrões de integração assíncrona.
+- **Performance:** Modelagem e tuning de banco de dados (SQL Server/PostgreSQL) para alto volume de dados.
+- **Qualidade:** Garantia de estabilidade via testes automatizados (TDD) com Jest, xUnit e Cypress.
+- **Infraestrutura:** CI/CD com GitHub Actions e containerização com Docker.
 
-Especificações Técnicas:
+---
 
-Arquitetura e Desenvolvimento
-Backend: Construção de uma API modular utilizando C#, .NET e TypeScript, garantindo desacoplamento entre as regras de negócio de comissionamento e as camadas de integração com o ERP.
+### Stack Técnica
 
-Processamento de Dados: Implementação de lógicas de agregação para processar grandes volumes de registros (ex: +1.300 registros diários e 270+ páginas de histórico) com consistência decimal.
+**Core:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Frontend Administrativo: Interface desenvolvida em React, focada em performance e visualização de dados financeiros em tempo real.
+**Web:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-Infraestrutura e Deploy Seguro
-Pipeline de Deploy: Fluxo de deploy seguro e integração contínua (CI/CD), mitigando vulnerabilidades em produção usando o github actions.
+---
 
-Integração WebServices: Consumo e tratamento de dados via WebServices/REST APIs para comunicação segura com o ecossistema Linx Microvix.
+### Trajetória Profissional
 
------------------------------------------------------------
-Beleza Natural
-Criação de uma interface centralizada para monitoramento de indicadores das unidades em tempo real.
+**Analista de Sistemas Pleno | Beleza Natural**
+*06/2023 – Atual*
+- **Redução de 70% no tempo de resposta** após migração para APIs (.NET + React), com refatoração de queries e reorganização em camadas.
+- **Desenvolvimento de interfaces escaláveis (Angular)** para sistemas corporativos, com foco em componentização e performance para bases de usuários em larga escala.
+- **Estabilização de fluxos de faturamento** via testes automatizados (Jest/Cypress), reduzindo drasticamente regressões em ambiente produtivo.
+- **Integração técnica com ERPs externos**, garantindo integridade em regras de negócio financeiras e tributárias.
 
-Stack: React, Next.js e Node.js.
+**Técnico de TI / Processamento de Dados | V.TAL**
+*06/2020 – 06/2023*
+- **Manutenção de rotinas batch (COBOL)** para conciliação de faturamento, processando milhões de registros em ambiente de alta disponibilidade.
+- **Automação de processos e monitoramento** para assegurar disponibilidade 24/7 de serviços de telecomunicações.
 
-Funcionalidade: Consumo de múltiplas APIs para consolidar KPIs de vendas e performance operacional em um único local.
+---
 
-Impacto: Agilidade na tomada de decisão da gestão, eliminando a necessidade de relatórios manuais em Excel.
----------------------------------------------------------------
+### Formação
+
+- **Pós-Graduação em Análise e Desenvolvimento de Sistemas** | Faculdade Focus
+- **Graduação em Análise e Desenvolvimento de Sistemas** | UDF Centro Universitário
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warleydias/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://warley.wdsoftware.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WarleyDias)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warleymarcelo@gmail.com)
